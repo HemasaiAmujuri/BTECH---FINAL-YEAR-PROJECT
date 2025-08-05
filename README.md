@@ -1,5 +1,5 @@
 # BTECH---FINAL-YEAR-PROJECT
- 1.Our B-Tech Final Year Project is Traffic Sign Recognition. I collecting our traffic sign dataset in kaggle,I didnt get sufficient data of Indian dataset so we move to German Traffic Sign data which is sufficient 
+ 1.My  B-Tech Final Year Project is Traffic Sign Recognition. I collecting our traffic sign dataset in kaggle,I didnt get sufficient data of Indian dataset so we move to German Traffic Sign data which is sufficient 
    for me.
  2.When i download dataset from kaggle it takes more local storage.
  3.I start this project in Colab so i install kaggle in colab,by using kaggle api key, i download dataset into Colab storage.
@@ -17,6 +17,10 @@
  14.In our model we have 20 epochs with batch_size 32.
  15.After the model building its time to find accuracy,the accuracy of my model is 98 percent.
  16.Finally, we save our model by using pickle library.
+
+
+ Functionality:
+ if you give any traffic sign image it easily detects.
  
  
              
